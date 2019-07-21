@@ -1,0 +1,15 @@
+Canon 
+
+Scale minimum = 1.12
+Scale maximum = 1.67
+--sigma 70 --no-plots -N none -H 1.67 -L 1.12 -r --objs 30
+
+SBIG
+
+Scale minimum = 0.67
+Scale maximum = 0.9
+--sigma 70 --no-plots -N none -H 0.9 -L 0.67 -r --objs 30
+
+SBIG w/ LPR Filter
+
+--sigma 70 --no-plots -N none -H 0.9 -L 0.67 -r --objs 60

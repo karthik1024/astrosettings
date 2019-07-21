@@ -1,0 +1,5 @@
+Roughly 7500 from home position
+Autofocus works best wit:
+step size = 100
+Num points = 9
+Min star size = 6x6

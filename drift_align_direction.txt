@@ -1,0 +1,2 @@
+Az: tighten left knob to decrease dec drift slope and vice versa.
+Alt: Turn top knob clockwise (when facing it) to decrease slope. Simultaneously turn bottom knob anti-clockwise (when facing it).
